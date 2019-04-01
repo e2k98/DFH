@@ -1,0 +1,6 @@
+owner=428568185277775872
+prefix=e
+game=e2k | Music 
+stayinchannel=true
+songinstatus=false
+token=NTYyMTMxMjIyNzQyOTU4MDg1.XKGTug.1-cx5M71EohYm3kZRavakOAyvEc
